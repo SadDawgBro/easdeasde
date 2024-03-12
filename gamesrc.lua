@@ -1,4 +1,5 @@
- var scene = new THREE.Scene();
+print("E")
+var scene = new THREE.Scene();
   var secondary_scene = new THREE.Scene();
   var textureLoader = new THREE.TextureLoader();
   var raycaster = new THREE.Raycaster;
